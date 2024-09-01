@@ -1,4 +1,4 @@
-
+#save login in a text file
 
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
